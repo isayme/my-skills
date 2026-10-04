@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "87c44e90-834b-4cbc-9f80-df6a8cddc671",
+  "name": "web-dev",
+  "description": "前端开发",
+  "icon": "briefcase",
+  "sort_order": 999
+}

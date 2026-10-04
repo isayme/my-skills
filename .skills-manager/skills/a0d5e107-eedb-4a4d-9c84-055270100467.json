@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a0d5e107-eedb-4a4d-9c84-055270100467",
+  "path": "pdf",
+  "path_key": "pdf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
